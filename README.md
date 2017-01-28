@@ -3,7 +3,7 @@ Python project to facilitate syncing books and reading progress from Amazon's Ki
 
 ## Installing PhantomJS ##
 
-You need at least PhantomJS 1.8.1.  There are *no other external
+This has been tested with PhantomJS 2.1.1, other versions may work. There are *no other external
 dependencies* (you don't need Qt, or a running X server, etc.)
 
 ### Mac ###
