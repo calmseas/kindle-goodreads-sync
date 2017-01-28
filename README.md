@@ -1,6 +1,8 @@
 # kindle-goodreads-sync
 Python project to facilitate syncing books and reading progress from Amazon's Kindle cloud reader and a Goodreads account
 
+PhantomJS python integration module source by Elias Winberg: https://github.com/elias-winberg/phantomjs-python
+
 ## Installing PhantomJS ##
 
 This has been tested with PhantomJS 2.1.1, other versions may work. There are *no other external
