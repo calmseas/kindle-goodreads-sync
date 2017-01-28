@@ -1,0 +1,2 @@
+blinker==1.4
+lettuce>=0.2.23
